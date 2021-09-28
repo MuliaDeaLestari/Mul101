@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mulia Dea Lestari
-- 👀 I’m interested in Android Development and Mobile Development
-- 🌱 I’m currently learning Android and mobile
+- 👀 
+- 🌱
 
 <!---
 Mul101/Mul101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

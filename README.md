@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mulia Dea Lestari
-- 👀 I'm interesting in System Analyst
+- 👀 I'm interesting in System Analyst and Android Development
 - 🌱
 
 <!---
